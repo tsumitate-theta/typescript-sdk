@@ -41,9 +41,6 @@
   "lint-staged": {
     "*.{ts,md}": "yarn run prettier-format"
   },
-  "files": [
-    "/dist"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/orca-so/typescript-sdk.git"
